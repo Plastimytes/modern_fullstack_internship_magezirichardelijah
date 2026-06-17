@@ -53,6 +53,6 @@ CREATE TABLE task_comments (
     CONSTRAINT fk_comment_user FOREIGN KEY (user_id) REFERENCES users(id)
 );
 
--- default roles
+-- default roles for when the app starts
 INSERT INTO roles (name) VALUES ('ROLE_USER');
 INSERT INTO roles (name) VALUES ('ROLE_ADMIN');
