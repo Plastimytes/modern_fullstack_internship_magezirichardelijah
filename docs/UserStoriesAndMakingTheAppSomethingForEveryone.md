@@ -158,7 +158,6 @@ The product must serve all three. The serious student should love it. The not-at
 
 ---
 
-
 ## Core Integrations
 
 ### Moodle
@@ -230,14 +229,6 @@ The product must serve all three. The serious student should love it. The not-at
 - AI-generated study plans
 
 ---
-
-## Success Metrics
-
-- 60% of registered students open the app at least once a week
-- Deadline miss rate drops by 40% among active users
-- WhatsApp notification open rate exceeds 80%
-- Moodle sync reduces manual task entry to zero for connected students
-- Admin can reach all students with one notification in under 60 seconds
 
 ---
 
