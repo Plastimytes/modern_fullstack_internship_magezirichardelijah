@@ -11,6 +11,7 @@ public class AuthController {
 
     private final AuthService authService;
 
+    //Constructor AuthService is injected here by Spring. We dont have to create an instance of it, Spring will do it.
     public AuthController(AuthService authService) {
         this.authService = authService;
     }

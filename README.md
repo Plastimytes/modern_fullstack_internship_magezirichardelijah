@@ -29,3 +29,7 @@ Database : MariaDB STRICTLY
 Magezi Richard Elijah
 
 Uganada Christian University
+
+**Running this**
+cd backend/studenttaskmanager
+./mvnw spring-boot:run
